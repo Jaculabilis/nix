@@ -541,7 +541,6 @@
             ''^tests/functional/fetchGitSubmodules\.sh$''
             ''^tests/functional/fetchGitVerification\.sh$''
             ''^tests/functional/fetchMercurial\.sh$''
-            ''^tests/functional/fetchurl\.sh$''
             ''^tests/functional/fixed\.builder1\.sh$''
             ''^tests/functional/fixed\.builder2\.sh$''
             ''^tests/functional/fixed\.sh$''
