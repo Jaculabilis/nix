@@ -532,7 +532,6 @@
             ''^tests/functional/dyn-drv/old-daemon-error-hack\.sh$''
             ''^tests/functional/dyn-drv/recursive-mod-json\.sh$''
             ''^tests/functional/eval-store\.sh$''
-            ''^tests/functional/eval\.sh$''
             ''^tests/functional/export-graph\.sh$''
             ''^tests/functional/export\.sh$''
             ''^tests/functional/extra-sandbox-profile\.sh$''
