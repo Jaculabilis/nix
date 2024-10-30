@@ -614,7 +614,6 @@
             ''^tests/functional/path-from-hash-part\.sh$''
             ''^tests/functional/path-info\.sh$''
             ''^tests/functional/placeholders\.sh$''
-            ''^tests/functional/plugins\.sh$''
             ''^tests/functional/post-hook\.sh$''
             ''^tests/functional/pure-eval\.sh$''
             ''^tests/functional/push-to-store-old\.sh$''
