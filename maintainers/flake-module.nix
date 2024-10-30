@@ -594,7 +594,6 @@
             ''^tests/functional/logging\.sh$''
             ''^tests/functional/misc\.sh$''
             ''^tests/functional/multiple-outputs\.sh$''
-            ''^tests/functional/nar-access\.sh$''
             ''^tests/functional/nested-sandboxing\.sh$''
             ''^tests/functional/nested-sandboxing/command\.sh$''
             ''^tests/functional/nix-build\.sh$''
