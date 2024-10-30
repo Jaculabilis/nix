@@ -564,7 +564,6 @@
             ''^tests/functional/git-hashing/simple\.sh$''
             ''^tests/functional/hash-convert\.sh$''
             ''^tests/functional/impure-derivations\.sh$''
-            ''^tests/functional/impure-env\.sh$''
             ''^tests/functional/impure-eval\.sh$''
             ''^tests/functional/install-darwin\.sh$''
             ''^tests/functional/lang\.sh$''
