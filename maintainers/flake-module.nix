@@ -501,7 +501,6 @@
             ''^scripts/install-nix-from-closure\.sh$''
             ''^scripts/install-systemd-multi-user\.sh$''
             ''^src/nix/get-env\.sh$''
-            ''^tests/functional/build\.sh$''
             ''^tests/functional/ca/build-dry\.sh$''
             ''^tests/functional/ca/build-with-garbage-path\.sh$''
             ''^tests/functional/ca/common\.sh$''
