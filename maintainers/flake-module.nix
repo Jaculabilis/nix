@@ -628,7 +628,6 @@
             ''^tests/functional/search\.sh$''
             ''^tests/functional/secure-drv-outputs\.sh$''
             ''^tests/functional/selfref-gc\.sh$''
-            ''^tests/functional/shell\.sh$''
             ''^tests/functional/shell\.shebang\.sh$''
             ''^tests/functional/simple\.builder\.sh$''
             ''^tests/functional/supplementary-groups\.sh$''
