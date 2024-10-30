@@ -7,7 +7,7 @@
 
   perSystem = { config, pkgs, ... }: {
 
-    # https://flake.parts/options/pre-commit-hooks-nix.html#options
+    # https://flake.parts/options/git-hooks-nix#options
     pre-commit.settings = {
       hooks = {
         clang-format = {
