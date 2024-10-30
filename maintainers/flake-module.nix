@@ -563,7 +563,6 @@
             ''^tests/functional/git-hashing/common\.sh$''
             ''^tests/functional/git-hashing/simple\.sh$''
             ''^tests/functional/hash-convert\.sh$''
-            ''^tests/functional/help\.sh$''
             ''^tests/functional/impure-derivations\.sh$''
             ''^tests/functional/impure-env\.sh$''
             ''^tests/functional/impure-eval\.sh$''
