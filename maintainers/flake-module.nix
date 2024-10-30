@@ -566,7 +566,6 @@
             ''^tests/functional/impure-derivations\.sh$''
             ''^tests/functional/impure-eval\.sh$''
             ''^tests/functional/install-darwin\.sh$''
-            ''^tests/functional/lang\.sh$''
             ''^tests/functional/legacy-ssh-store\.sh$''
             ''^tests/functional/linux-sandbox\.sh$''
             ''^tests/functional/local-overlay-store/add-lower-inner\.sh$''
