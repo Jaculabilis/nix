@@ -516,7 +516,6 @@
             ''^tests/functional/ca/selfref-gc\.sh$''
             ''^tests/functional/ca/why-depends\.sh$''
             ''^tests/functional/characterisation-test-infra\.sh$''
-            ''^tests/functional/check\.sh$''
             ''^tests/functional/common/vars-and-functions\.sh$''
             ''^tests/functional/completions\.sh$''
             ''^tests/functional/compute-levels\.sh$''
