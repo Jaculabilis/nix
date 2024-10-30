@@ -560,7 +560,6 @@
             ''^tests/functional/gc-concurrent\.sh$''
             ''^tests/functional/gc-concurrent2\.builder\.sh$''
             ''^tests/functional/gc-non-blocking\.sh$''
-            ''^tests/functional/gc\.sh$''
             ''^tests/functional/git-hashing/common\.sh$''
             ''^tests/functional/git-hashing/simple\.sh$''
             ''^tests/functional/hash-convert\.sh$''
