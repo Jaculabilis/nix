@@ -637,7 +637,6 @@
             ''^tests/functional/user-envs\.builder\.sh$''
             ''^tests/functional/user-envs\.sh$''
             ''^tests/functional/why-depends\.sh$''
-            ''^tests/functional/zstd\.sh$''
             ''^src/libutil-tests/data/git/check-data\.sh$''
           ];
         };
